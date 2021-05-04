@@ -1,9 +1,0 @@
-<?php
-
-
-
-hello world
-
-
-
-?>
